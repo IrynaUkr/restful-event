@@ -1,0 +1,6 @@
+/Users/irinapodoprigora/IdeaProjects/restful-event/service-impl/src/main/java/multimodule/exception/ServiceException.java
+/Users/irinapodoprigora/IdeaProjects/restful-event/service-impl/src/main/java/multimodule/exception/EventNotFoundException.java
+/Users/irinapodoprigora/IdeaProjects/restful-event/service-impl/src/main/java/multimodule/util/EventServiceUtils.java
+/Users/irinapodoprigora/IdeaProjects/restful-event/service-impl/src/main/java/multimodule/serviceImpl/EventServiceImpl.java
+/Users/irinapodoprigora/IdeaProjects/restful-event/service-impl/src/main/java/multimodule/exception/ErrorType.java
+/Users/irinapodoprigora/IdeaProjects/restful-event/service-impl/src/main/java/multimodule/exception/EventAlreadyExistException.java

@@ -1,0 +1,6 @@
+multimodule/mapper/EventMapperImpl.class
+multimodule/model/Event.class
+multimodule/model/Event$EventBuilder.class
+multimodule/dto/EventDto.class
+multimodule/mapper/EventMapper.class
+multimodule/dto/EventDto$EventDtoBuilder.class
